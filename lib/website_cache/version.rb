@@ -1,3 +1,4 @@
 module WebsiteCache
-  VERSION = "0.1.0"
+  NAME = 'website_cache'
+  VERSION = '0.1.0'
 end
